@@ -2,7 +2,7 @@
 
 ## Overview
 
-SimpleLayerOne is an encryption service implemented in Go, providing an HTTP server for encrypting data. This project includes a Go API and a JavaScript client for testing the API.
+SimpleLayerOne is a simple encryption example implemented in Go, providing an HTTP server for encrypting data. This project includes a Go API and a JavaScript client for testing the API.
 
 ## Repository Structure
 
@@ -36,6 +36,7 @@ https://github.com/ShaneSCalder/SimpleLayerOne/
 ### Setting Up the JavaScript Client
 
 4. **Create a Project Folder**:
+- copy the test files into a new project
 - Create a folder for the client-side testing.
 - Place `testapi.js` and `testdata.json` inside this folder.
 
