@@ -29,7 +29,7 @@ https://github.com/ShaneSCalder/SimpleLayerOne/
 
   
 3. **Run the Server**:
-- go run cmd/main.go
+- go run main.go
 
   This starts the server on `http://localhost:8080/encrypt`.
 
