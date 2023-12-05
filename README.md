@@ -6,7 +6,7 @@ SimpleLayerOne is a simple encryption example implemented in Go, providing an HT
 
 ## Repository Structure
 
-- `/cmd/main.go`: The main Go file to run the HTTP server for the encryption service.
+- `main.go`: The main Go file to run the HTTP server for the encryption service.
 - `/pkg/encrypt/layerone.go`: Contains the encryption logic using ChaCha20.
 
 ## Getting Started
